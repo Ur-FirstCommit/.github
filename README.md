@@ -1,2 +1,2 @@
-# .github
+# FirstCommit
 Welcome to FirstCommit
