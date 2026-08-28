@@ -1,4 +1,8 @@
-## Hi there 👋 Welcome to FirstCommit
+# Hi there 👋 Welcome to FirstCommit
+FirstCommit is a [non-profit](https://hcb.hackclub.com/firstcommit/) with a goal of empowering beginners who want to learn and grow with coding!
+
+## Sponsors
+Our list of sponsors include: [DevSwarm](https://devswarm.ai/), and [.xyz Domains](https://gen.xyz/)
 
 <!--
 
