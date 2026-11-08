@@ -4,6 +4,13 @@ FirstCommit is a [non-profit](https://hcb.hackclub.com/firstcommit/) with a goal
 ## Sponsors
 Our list of sponsors include: [DevSwarm](https://devswarm.ai/), and [.xyz Domains](https://gen.xyz/)
 
+<img src="./logo-black.png" align="left" width="200"/>
+
+<a href="https://firstcommit.xyz/">Website</a> ·
+
+[![Status badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.firstcommit.xyz%2Fshield-badges%2Fstatus.json&style=for-the-badge)](https://status.firstcommit.xyz)
+
+
 <!--
 
 **Here are some ideas to get you started:**
